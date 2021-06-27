@@ -1,2 +1,1 @@
-# Must read
-* [Data](docs/data.md)
+* [Data](data.md)
